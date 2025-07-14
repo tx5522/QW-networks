@@ -1,0 +1,1705 @@
+Accuracy: 0.324
+Amplitudes for percept [0,0,0]: 
+tensor([[-0.3536+1.8078e-09j],
+        [-0.3536+1.8078e-09j],
+        [-0.3536+1.8078e-09j],
+        [-0.3536+1.8078e-09j],
+        [-0.3536+3.5355e-01j],
+        [-0.3536+3.5355e-01j]])
+L1 norm of phases: 7649.3798828125
+Average weighted phase: 2.4924211502075195
+
+Accuracy: 0.348
+Amplitudes for percept [0,0,0]: 
+tensor([[-0.4190+0.1772j],
+        [-0.3485+0.1473j],
+        [-0.3480+0.1471j],
+        [-0.2903+0.1228j],
+        [-0.2288+0.4337j],
+        [-0.1909+0.3618j]])
+L1 norm of phases: 6550.8251953125
+Average weighted phase: 2.1570799350738525
+
+Accuracy: 0.356
+Amplitudes for percept [0,0,0]: 
+tensor([[-0.3394+0.3649j],
+        [-0.2584+0.2779j],
+        [-0.2523+0.2713j],
+        [-0.2045+0.2199j],
+        [-0.0806+0.4722j],
+        [-0.0654+0.3827j]])
+L1 norm of phases: 5458.0712890625
+Average weighted phase: 1.7861701250076294
+
+Accuracy: 0.39
+Amplitudes for percept [0,0,0]: 
+tensor([[-0.1518+0.4637j],
+        [-0.1155+0.3526j],
+        [-0.1089+0.3325j],
+        [-0.0958+0.2927j],
+        [ 0.0741+0.4731j],
+        [ 0.0652+0.4165j]])
+L1 norm of phases: 4357.31591796875
+Average weighted phase: 1.421273946762085
+
+Accuracy: 0.416
+Amplitudes for percept [0,0,0]: 
+tensor([[0.0575+0.5075j],
+        [0.0409+0.3615j],
+        [0.0369+0.3262j],
+        [0.0341+0.3010j],
+        [0.2154+0.4166j],
+        [0.1988+0.3844j]])
+L1 norm of phases: 3278.4140625
+Average weighted phase: 1.0720947980880737
+
+Accuracy: 0.414
+Amplitudes for percept [0,0,0]: 
+tensor([[0.2686+0.4643j],
+        [0.1787+0.3090j],
+        [0.1547+0.2674j],
+        [0.1489+0.2574j],
+        [0.3228+0.3224j],
+        [0.3107+0.3103j]])
+L1 norm of phases: 2188.1064453125
+Average weighted phase: 0.715597927570343
+
+Accuracy: 0.384
+Amplitudes for percept [0,0,0]: 
+tensor([[0.4256+0.3361j],
+        [0.2756+0.2176j],
+        [0.2297+0.1814j],
+        [0.2346+0.1852j],
+        [0.3917+0.2146j],
+        [0.4001+0.2192j]])
+L1 norm of phases: 1089.0030517578125
+Average weighted phase: 0.35607942938804626
+
+Accuracy: 0.464
+Amplitudes for percept [0,0,0]: 
+tensor([[0.5402+0.1484j],
+        [0.3308+0.0909j],
+        [0.2637+0.0724j],
+        [0.2844+0.0781j],
+        [0.4248+0.0866j],
+        [0.4583+0.0934j]])
+L1 norm of phases: 119.99090576171875
+Average weighted phase: 0.03902839869260788
+
+Accuracy: 0.504
+Amplitudes for percept [0,0,0]: 
+tensor([[0.5714-0.0452j],
+        [0.3346-0.0265j],
+        [0.2556-0.0202j],
+        [0.2916-0.0231j],
+        [0.4201-0.0249j],
+        [0.4791-0.0284j]])
+L1 norm of phases: 253.2369384765625
+Average weighted phase: 0.08289170265197754
+
+Accuracy: 0.51
+Amplitudes for percept [0,0,0]: 
+tensor([[0.5820-0.0296j],
+        [0.3277-0.0167j],
+        [0.2394-0.0122j],
+        [0.2901-0.0148j],
+        [0.4077-0.0155j],
+        [0.4940-0.0188j]])
+L1 norm of phases: 97.86248016357422
+Average weighted phase: 0.03208744153380394
+
+Accuracy: 0.534
+Amplitudes for percept [0,0,0]: 
+tensor([[0.5983+0.0122j],
+        [0.3172+0.0065j],
+        [0.2227+0.0045j],
+        [0.2816+0.0057j],
+        [0.3981+0.0061j],
+        [0.5036+0.0077j]])
+L1 norm of phases: 43.16822052001953
+Average weighted phase: 0.014069873839616776
+
+Accuracy: 0.482
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6066+0.0046j],
+        [0.3075+0.0023j],
+        [0.2072+0.0016j],
+        [0.2756+0.0021j],
+        [0.3887+0.0022j],
+        [0.5172+0.0029j]])
+L1 norm of phases: 29.814790725708008
+Average weighted phase: 0.009784739464521408
+
+Accuracy: 0.59
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6183-0.0030j],
+        [0.2971-0.0014j],
+        [0.1923-0.0009j],
+        [0.2677-0.0013j],
+        [0.3784-0.0014j],
+        [0.5268-0.0019j]])
+L1 norm of phases: 20.7065372467041
+Average weighted phase: 0.006764587014913559
+
+Accuracy: 0.592
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6219-0.0035j],
+        [0.2933-0.0017j],
+        [0.1838-0.0010j],
+        [0.2672-0.0015j],
+        [0.3682-0.0016j],
+        [0.5353-0.0023j]])
+L1 norm of phases: 20.771820068359375
+Average weighted phase: 0.006766758859157562
+
+Accuracy: 0.654
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6276+0.0039j],
+        [0.2889+0.0018j],
+        [0.1744+0.0011j],
+        [0.2660+0.0016j],
+        [0.3560+0.0017j],
+        [0.5429+0.0025j]])
+L1 norm of phases: 19.525737762451172
+Average weighted phase: 0.006407302804291248
+
+Accuracy: 0.632
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6335-0.0016j],
+        [0.2821-0.0007j],
+        [0.1644-0.0004j],
+        [0.2615-0.0007j],
+        [0.3464-0.0007j],
+        [0.5511-0.0010j]])
+L1 norm of phases: 18.677522659301758
+Average weighted phase: 0.006166024599224329
+
+Accuracy: 0.658
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6413+0.0009j],
+        [0.2710+0.0004j],
+        [0.1532+0.0002j],
+        [0.2512+0.0003j],
+        [0.3410+0.0003j],
+        [0.5590+0.0006j]])
+L1 norm of phases: 17.53034782409668
+Average weighted phase: 0.005775193218141794
+
+Accuracy: 0.668
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6470-0.0020j],
+        [0.2597-0.0008j],
+        [0.1420-0.0004j],
+        [0.2412-0.0007j],
+        [0.3348-0.0008j],
+        [0.5687-0.0013j]])
+L1 norm of phases: 25.41413688659668
+Average weighted phase: 0.008376091718673706
+
+Accuracy: 0.66
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6549+0.0030j],
+        [0.2480+0.0011j],
+        [0.1326+0.0006j],
+        [0.2297+0.0011j],
+        [0.3314+0.0012j],
+        [0.5740+0.0020j]])
+L1 norm of phases: 18.29519271850586
+Average weighted phase: 0.0060676285065710545
+
+Accuracy: 0.7
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6620+0.0007j],
+        [0.2350+0.0003j],
+        [0.1240+0.0001j],
+        [0.2163+0.0002j],
+        [0.3314+0.0003j],
+        [0.5784+0.0005j]])
+L1 norm of phases: 20.6168270111084
+Average weighted phase: 0.006926363334059715
+
+Accuracy: 0.708
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6654+0.0117j],
+        [0.2253+0.0039j],
+        [0.1170+0.0021j],
+        [0.2071+0.0036j],
+        [0.3299+0.0043j],
+        [0.5839+0.0077j]])
+L1 norm of phases: 19.577882766723633
+Average weighted phase: 0.006505957338958979
+
+Accuracy: 0.746
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6688+0.0142j],
+        [0.2187+0.0047j],
+        [0.1122+0.0024j],
+        [0.2009+0.0043j],
+        [0.3277+0.0052j],
+        [0.5866+0.0094j]])
+L1 norm of phases: 19.63970947265625
+Average weighted phase: 0.006558496970683336
+
+Accuracy: 0.682
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6748+0.0053j],
+        [0.2053+0.0016j],
+        [0.1057+0.0008j],
+        [0.1868+0.0015j],
+        [0.3327+0.0020j],
+        [0.5880+0.0035j]])
+L1 norm of phases: 13.939798355102539
+Average weighted phase: 0.004690671339631081
+
+Accuracy: 0.72
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6780+3.0402e-04j],
+        [0.1927+8.6393e-05j],
+        [0.1017+4.5603e-05j],
+        [0.1726+7.7384e-05j],
+        [0.3455+1.1621e-04j],
+        [0.5862+1.9718e-04j]])
+L1 norm of phases: 22.725465774536133
+Average weighted phase: 0.007609124295413494
+
+Accuracy: 0.722
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6817+0.0052j],
+        [0.1841+0.0014j],
+        [0.1007+0.0008j],
+        [0.1619+0.0012j],
+        [0.3602+0.0021j],
+        [0.5790+0.0033j]])
+L1 norm of phases: 18.83412742614746
+Average weighted phase: 0.006292221136391163
+
+Accuracy: 0.748
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6827+0.0018j],
+        [0.1783+0.0005j],
+        [0.0994+0.0003j],
+        [0.1551+0.0004j],
+        [0.3692+0.0007j],
+        [0.5760+0.0011j]])
+L1 norm of phases: 18.341821670532227
+Average weighted phase: 0.006042442284524441
+
+Accuracy: 0.752
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6867+0.0069j],
+        [0.1680+0.0017j],
+        [0.0930+0.0009j],
+        [0.1458+0.0015j],
+        [0.3687+0.0028j],
+        [0.5781+0.0043j]])
+L1 norm of phases: 15.776893615722656
+Average weighted phase: 0.005341056734323502
+
+Accuracy: 0.732
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6898-0.0017j],
+        [0.1583-0.0004j],
+        [0.0884-0.0002j],
+        [0.1363-0.0003j],
+        [0.3740-0.0007j],
+        [0.5769-0.0011j]])
+L1 norm of phases: 16.97175407409668
+Average weighted phase: 0.0057026720605790615
+
+Accuracy: 0.71
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6924+0.0025j],
+        [0.1460+0.0005j],
+        [0.0833+0.0003j],
+        [0.1238+0.0005j],
+        [0.3855+0.0011j],
+        [0.5730+0.0016j]])
+L1 norm of phases: 16.20001792907715
+Average weighted phase: 0.005515354219824076
+
+Accuracy: 0.748
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6963+4.4220e-04j],
+        [0.1332+8.4589e-05j],
+        [0.0781+4.9624e-05j],
+        [0.1108+7.0393e-05j],
+        [0.3988+1.8998e-04j],
+        [0.5657+2.6949e-04j]])
+L1 norm of phases: 17.516759872436523
+Average weighted phase: 0.005894980393350124
+
+Accuracy: 0.758
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6971+6.4036e-05j],
+        [0.1266+1.1629e-05j],
+        [0.0743+6.8209e-06j],
+        [0.1051+9.6562e-06j],
+        [0.4004+2.7609e-05j],
+        [0.5667+3.9077e-05j]])
+L1 norm of phases: 18.226181030273438
+Average weighted phase: 0.006047744769603014
+
+Accuracy: 0.744
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6991+0.0036j],
+        [0.1216+0.0006j],
+        [0.0706+0.0004j],
+        [0.1012+0.0005j],
+        [0.3969+0.0015j],
+        [0.5689+0.0022j]])
+L1 norm of phases: 15.584467887878418
+Average weighted phase: 0.005178457126021385
+
+Accuracy: 0.772
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6988-0.0018j],
+        [0.1209-0.0003j],
+        [0.0702-0.0002j],
+        [0.1006-0.0003j],
+        [0.3974-0.0008j],
+        [0.5693-0.0011j]])
+L1 norm of phases: 17.56967544555664
+Average weighted phase: 0.005852977745234966
+
+Accuracy: 0.75
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7009-0.0020j],
+        [0.1163-0.0003j],
+        [0.0683-0.0002j],
+        [0.0961-0.0003j],
+        [0.4019-0.0009j],
+        [0.5655-0.0012j]])
+L1 norm of phases: 15.421236038208008
+Average weighted phase: 0.005227786488831043
+
+Accuracy: 0.76
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7010-0.0026j],
+        [0.1093-0.0004j],
+        [0.0649-0.0002j],
+        [0.0896-0.0003j],
+        [0.4084-0.0011j],
+        [0.5636-0.0016j]])
+L1 norm of phases: 13.322619438171387
+Average weighted phase: 0.004496007692068815
+
+Accuracy: 0.784
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7034-0.0031j],
+        [0.1008-0.0004j],
+        [0.0608-0.0003j],
+        [0.0817-0.0004j],
+        [0.4156-0.0014j],
+        [0.5585-0.0019j]])
+L1 norm of phases: 22.479677200317383
+Average weighted phase: 0.00755815114825964
+
+Accuracy: 0.77
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7055-0.0060j],
+        [0.0885-0.0008j],
+        [0.0540-0.0005j],
+        [0.0709-0.0006j],
+        [0.4225-0.0027j],
+        [0.5549-0.0036j]])
+L1 norm of phases: 325.9967956542969
+Average weighted phase: 0.006743034813553095
+
+Accuracy: 0.754
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7053-0.0036j],
+        [0.0847-0.0004j],
+        [0.0523-0.0003j],
+        [0.0674-0.0003j],
+        [0.4285-0.0016j],
+        [0.5518-0.0021j]])
+L1 norm of phases: 344.028076171875
+Average weighted phase: 0.003973858896642923
+
+Accuracy: 0.772
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7070-1.1185e-03j],
+        [0.0788-1.2465e-04j],
+        [0.0492-7.7818e-05j],
+        [0.0622-9.8352e-05j],
+        [0.4333-5.1408e-04j],
+        [0.5477-6.4975e-04j]])
+L1 norm of phases: 289.5853271484375
+Average weighted phase: 0.0055769640021026134
+
+Accuracy: 0.78
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7082+0.0053j],
+        [0.0688+0.0005j],
+        [0.0433+0.0003j],
+        [0.0538+0.0004j],
+        [0.4384+0.0025j],
+        [0.5447+0.0031j]])
+L1 norm of phases: 314.76953125
+Average weighted phase: 0.004117194097489119
+
+Accuracy: 0.788
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7095+0.0052j],
+        [0.0580+0.0004j],
+        [0.0366+0.0003j],
+        [0.0452+0.0003j],
+        [0.4402+0.0024j],
+        [0.5441+0.0030j]])
+L1 norm of phases: 315.05511474609375
+Average weighted phase: 0.0074407015927135944
+
+Accuracy: 0.774
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7110-0.0045j],
+        [0.0471-0.0003j],
+        [0.0298-0.0002j],
+        [0.0365-0.0002j],
+        [0.4426-0.0021j],
+        [0.5423-0.0026j]])
+L1 norm of phases: 255.99984741210938
+Average weighted phase: 0.004443535581231117
+
+Accuracy: 0.748
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7113-0.0121j],
+        [0.0373-0.0006j],
+        [0.0243-0.0004j],
+        [0.0284-0.0005j],
+        [0.4561-0.0058j],
+        [0.5320-0.0068j]])
+L1 norm of phases: 245.66983032226562
+Average weighted phase: 0.004974949173629284
+
+Accuracy: 0.77
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7119-0.0052j],
+        [0.0289-0.0002j],
+        [0.0191-0.0001j],
+        [0.0217-0.0002j],
+        [0.4622-0.0025j],
+        [0.5271-0.0029j]])
+L1 norm of phases: 245.4351043701172
+Average weighted phase: 0.0039242045022547245
+
+Accuracy: 0.782
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7124+1.6151e-03j],
+        [0.0222+5.0277e-05j],
+        [0.0145+3.2808e-05j],
+        [0.0168+3.8130e-05j],
+        [0.4573+7.7760e-04j],
+        [0.5315+9.0374e-04j]])
+L1 norm of phases: 256.7660217285156
+Average weighted phase: 0.003582919482141733
+
+Accuracy: 0.78
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7130+4.9654e-03j],
+        [0.0161+1.1223e-04j],
+        [0.0104+7.2438e-05j],
+        [0.0123+8.5762e-05j],
+        [0.4522+2.3616e-03j],
+        [0.5353+2.7960e-03j]])
+L1 norm of phases: 252.43235778808594
+Average weighted phase: 0.004323562141507864
+
+Accuracy: 0.788
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7125+3.9730e-03j],
+        [0.0119+6.6603e-05j],
+        [0.0078+4.3362e-05j],
+        [0.0091+5.0566e-05j],
+        [0.4566+1.9097e-03j],
+        [0.5325+2.2269e-03j]])
+L1 norm of phases: 221.72677612304688
+Average weighted phase: 0.004143120255321264
+
+Accuracy: 0.748
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7133-6.7335e-04j],
+        [0.0085-8.0191e-06j],
+        [0.0056-5.2563e-06j],
+        [0.0064-6.0566e-06j],
+        [0.4593-3.2512e-04j],
+        [0.5292-3.7463e-04j]])
+L1 norm of phases: 169.54095458984375
+Average weighted phase: 0.0022297510877251625
+
+Accuracy: 0.748
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7125+5.8378e-03j],
+        [0.0061+5.0181e-05j],
+        [0.0040+3.2678e-05j],
+        [0.0046+3.8086e-05j],
+        [0.4569+2.8077e-03j],
+        [0.5325+3.2724e-03j]])
+L1 norm of phases: 115.35198974609375
+Average weighted phase: 0.0036858716048300266
+
+Accuracy: 0.802
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7126+2.6823e-03j],
+        [0.0047+1.7554e-05j],
+        [0.0030+1.1224e-05j],
+        [0.0036+1.3498e-05j],
+        [0.4485+1.2663e-03j],
+        [0.5394+1.5229e-03j]])
+L1 norm of phases: 164.79603576660156
+Average weighted phase: 0.0032008925918489695
+
+Accuracy: 0.766
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7132-6.8454e-04j],
+        [0.0033-3.1723e-06j],
+        [0.0020-1.9524e-06j],
+        [0.0026-2.5002e-06j],
+        [0.4314-3.1055e-04j],
+        [0.5525-3.9769e-04j]])
+L1 norm of phases: 135.01272583007812
+Average weighted phase: 0.005502941552549601
+
+Accuracy: 0.762
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7129-5.8153e-03j],
+        [0.0023-1.9122e-05j],
+        [0.0014-1.1300e-05j],
+        [0.0019-1.5426e-05j],
+        [0.4144-2.5354e-03j],
+        [0.5657-3.4612e-03j]])
+L1 norm of phases: 1278.30908203125
+Average weighted phase: 0.004289861768484116
+
+Accuracy: 0.824
+Amplitudes for percept [0,0,0]: 
+tensor([[0.7132+1.7428e-03j],
+        [0.0017+4.0695e-06j],
+        [0.0010+2.3873e-06j],
+        [0.0013+3.2958e-06j],
+        [0.4112+7.5363e-04j],
+        [0.5677+1.0404e-03j]])
+L1 norm of phases: nan
+Average weighted phase: nan
+
+Accuracy: 0.366
+Amplitudes for percept [0,0,0]: 
+tensor([[-0.3536+1.8078e-09j],
+        [-0.3536+1.8078e-09j],
+        [-0.3536+1.8078e-09j],
+        [-0.3536+1.8078e-09j],
+        [-0.3536+3.5355e-01j],
+        [-0.3536+3.5355e-01j]])
+L1 norm of phases: 7649.3798828125
+Average weighted phase: 2.4924426078796387
+
+Accuracy: 0.392
+Amplitudes for percept [0,0,0]: 
+tensor([[-0.4215+0.1782j],
+        [-0.3450+0.1459j],
+        [-0.3486+0.1474j],
+        [-0.2903+0.1227j],
+        [-0.2247+0.4260j],
+        [-0.1956+0.3709j]])
+L1 norm of phases: 6549.2265625
+Average weighted phase: 2.1567392349243164
+
+Accuracy: 0.43
+Amplitudes for percept [0,0,0]: 
+tensor([[-0.3679+0.3684j],
+        [-0.2463+0.2467j],
+        [-0.2691+0.2695j],
+        [-0.2121+0.2124j],
+        [-0.0847+0.4271j],
+        [-0.0832+0.4193j]])
+L1 norm of phases: 5449.775390625
+Average weighted phase: 1.7828513383865356
+
+Accuracy: 0.502
+Amplitudes for percept [0,0,0]: 
+tensor([[-0.2065+0.4970j],
+        [-0.1091+0.2626j],
+        [-0.1422+0.3423j],
+        [-0.1202+0.2893j],
+        [ 0.0418+0.4272j],
+        [ 0.0445+0.4557j]])
+L1 norm of phases: 4351.96826171875
+Average weighted phase: 1.4175766706466675
+
+Accuracy: 0.53
+Amplitudes for percept [0,0,0]: 
+tensor([[0.0202+0.5604j],
+        [0.0080+0.2226j],
+        [0.0129+0.3597j],
+        [0.0116+0.3216j],
+        [0.1844+0.4133j],
+        [0.1813+0.4063j]])
+L1 norm of phases: 3257.25
+Average weighted phase: 1.0633761882781982
+
+Accuracy: 0.528
+Amplitudes for percept [0,0,0]: 
+tensor([[0.2720+0.5288j],
+        [0.0825+0.1604j],
+        [0.1591+0.3094j],
+        [0.1465+0.2848j],
+        [0.2862+0.3078j],
+        [0.3147+0.3385j]])
+L1 norm of phases: 2154.488525390625
+Average weighted phase: 0.7037227153778076
+
+Accuracy: 0.654
+Amplitudes for percept [0,0,0]: 
+tensor([[0.4946+0.3614j],
+        [0.1149+0.0839j],
+        [0.2680+0.1959j],
+        [0.2630+0.1922j],
+        [0.3411+0.1747j],
+        [0.4373+0.2239j]])
+L1 norm of phases: 1059.8148193359375
+Average weighted phase: 0.34562310576438904
+
+Accuracy: 0.62
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6206+0.1064j],
+        [0.1009+0.0173j],
+        [0.3090+0.0530j],
+        [0.3252+0.0558j],
+        [0.3522+0.0451j],
+        [0.5057+0.0648j]])
+L1 norm of phases: 211.34207153320312
+Average weighted phase: 0.06915311515331268
+
+Accuracy: 0.674
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6401-0.0760j],
+        [0.0651-0.0077j],
+        [0.2920-0.0347j],
+        [0.3310-0.0393j],
+        [0.3239-0.0288j],
+        [0.5241-0.0466j]])
+L1 norm of phases: 232.8240509033203
+Average weighted phase: 0.07584144175052643
+
+Accuracy: 0.734
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6532-0.0131j],
+        [0.0399-0.0008j],
+        [0.2792-0.0056j],
+        [0.3378-0.0068j],
+        [0.3174-0.0048j],
+        [0.5279-0.0080j]])
+L1 norm of phases: 110.70183563232422
+Average weighted phase: 0.035962630063295364
+
+Accuracy: 0.736
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6569+0.0111j],
+        [0.0230+0.0004j],
+        [0.2697+0.0046j],
+        [0.3473+0.0059j],
+        [0.3462+0.0044j],
+        [0.5045+0.0064j]])
+L1 norm of phases: 50.79425811767578
+Average weighted phase: 0.01649738848209381
+
+Accuracy: 0.772
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6612+0.0069j],
+        [0.0111+0.0001j],
+        [0.2603+0.0027j],
+        [0.3594+0.0038j],
+        [0.3549+0.0028j],
+        [0.4896+0.0038j]])
+L1 norm of phases: 38.8311767578125
+Average weighted phase: 0.012672149576246738
+
+Accuracy: 0.758
+Amplitudes for percept [0,0,0]: 
+tensor([[0.6657-1.3366e-02j],
+        [0.0038-7.5341e-05j],
+        [0.2504-5.0283e-03j],
+        [0.3726-7.4814e-03j],
+        [0.3660-5.5109e-03j],
+        [0.4702-7.0811e-03j]])
+L1 norm of phases: 230.1052703857422
+Average weighted phase: 0.0056915683671832085
+
+Accuracy: 0.794
+Amplitudes for percept [0,0,0]: 
+tensor([[ 6.7065e-01-5.9838e-03j],
+        [-6.0725e-05+5.4180e-07j],
+        [ 2.3890e-01-2.1315e-03j],
+        [ 3.8421e-01-3.4280e-03j],
+        [ 3.6557e-01-2.4462e-03j],
+        [ 4.6025e-01-3.0798e-03j]])
+L1 norm of phases: 753.406494140625
+Average weighted phase: 0.005602172575891018
+
+Accuracy: 0.846
+Amplitudes for percept [0,0,0]: 
+tensor([[ 0.6721-1.1526e-03j],
+        [-0.0015+8.4815e-05j],
+        [ 0.2293-9.8482e-05j],
+        [ 0.3989-1.7132e-04j],
+        [ 0.3663-2.2198e-03j],
+        [ 0.4498-2.7265e-03j]])
+L1 norm of phases: 823.0337524414062
+Average weighted phase: 0.005811704322695732
+
+Accuracy: 0.824
+Amplitudes for percept [0,0,0]: 
+tensor([[ 0.6762-4.3308e-03j],
+        [-0.0016+2.5576e-04j],
+        [ 0.2209-2.1969e-05j],
+        [ 0.4127-4.1014e-05j],
+        [ 0.3543+2.9183e-04j],
+        [ 0.4450+3.6648e-04j]])
+L1 norm of phases: 1243.418212890625
+Average weighted phase: 0.004837328568100929
+
+Accuracy: 0.834
+Amplitudes for percept [0,0,0]: 
+tensor([[ 0.6759-0.0097j],
+        [-0.0011+0.0003j],
+        [ 0.2147-0.0018j],
+        [ 0.4347-0.0037j],
+        [ 0.3308+0.0004j],
+        [ 0.4456+0.0006j]])
+L1 norm of phases: 1430.619873046875
+Average weighted phase: 0.003918170463293791
+
+Accuracy: 0.862
+Amplitudes for percept [0,0,0]: 
+tensor([[ 6.7813e-01-0.0014j],
+        [-5.0362e-04+0.0002j],
+        [ 2.0836e-01-0.0019j],
+        [ 4.5945e-01-0.0043j],
+        [ 2.8843e-01-0.0011j],
+        [ 4.4990e-01-0.0017j]])
+L1 norm of phases: 1990.9300537109375
+Average weighted phase: 0.004429979715496302
+
+Accuracy: 0.842
+Amplitudes for percept [0,0,0]: 
+tensor([[ 6.8122e-01-2.7674e-03j],
+        [-9.1727e-05+6.2175e-05j],
+        [ 1.9947e-01+2.2896e-04j],
+        [ 4.8321e-01+5.5466e-04j],
+        [ 2.5236e-01-3.8604e-04j],
+        [ 4.4605e-01-6.8234e-04j]])
+L1 norm of phases: 1608.91162109375
+Average weighted phase: 0.0028830799274146557
+
+Accuracy: 0.884
+Amplitudes for percept [0,0,0]: 
+tensor([[6.8336e-01+0.0026j],
+        [2.6402e-04-0.0002j],
+        [1.8933e-01-0.0009j],
+        [5.0833e-01-0.0025j],
+        [2.4477e-01-0.0005j],
+        [4.2290e-01-0.0009j]])
+L1 norm of phases: 1691.6905517578125
+Average weighted phase: 0.003841857425868511
+
+Accuracy: 0.892
+Amplitudes for percept [0,0,0]: 
+tensor([[6.8638e-01+1.6620e-05j],
+        [4.2328e-04-3.5079e-04j],
+        [1.7969e-01+8.4477e-04j],
+        [5.3146e-01+2.4986e-03j],
+        [2.6490e-01+6.2953e-04j],
+        [3.7942e-01+9.0167e-04j]])
+L1 norm of phases: 1454.0885009765625
+Average weighted phase: 0.004401337821036577
+
+Accuracy: 0.906
+Amplitudes for percept [0,0,0]: 
+tensor([[6.8907e-01+0.0001j],
+        [3.1219e-04-0.0002j],
+        [1.6929e-01+0.0011j],
+        [5.5276e-01+0.0034j],
+        [2.7560e-01+0.0008j],
+        [3.3914e-01+0.0010j]])
+L1 norm of phases: 1132.3150634765625
+Average weighted phase: 0.003947763238102198
+
+Accuracy: 0.914
+Amplitudes for percept [0,0,0]: 
+tensor([[6.9323e-01+1.1540e-03j],
+        [1.1553e-04-5.5270e-05j],
+        [1.5434e-01+9.6843e-06j],
+        [5.6978e-01+3.5794e-05j],
+        [2.6914e-01+6.8217e-06j],
+        [3.1388e-01+7.9537e-06j]])
+L1 norm of phases: 1143.016357421875
+Average weighted phase: 0.0035835772287100554
+
+Accuracy: 0.938
+Amplitudes for percept [0,0,0]: 
+tensor([[ 6.9621e-01+9.3421e-04j],
+        [-7.2775e-05+2.2235e-05j],
+        [ 1.3819e-01+4.1318e-04j],
+        [ 5.8715e-01+1.7556e-03j],
+        [ 2.6508e-01+3.6663e-04j],
+        [ 2.8492e-01+3.9407e-04j]])
+L1 norm of phases: 904.6354370117188
+Average weighted phase: 0.005164510104805231
+
+Accuracy: 0.944
+Amplitudes for percept [0,0,0]: 
+tensor([[ 6.9697e-01-6.9939e-03j],
+        [-2.9586e-04+8.6046e-05j],
+        [ 1.2437e-01-1.6477e-04j],
+        [ 6.0461e-01-8.0095e-04j],
+        [ 2.4775e-01-3.1242e-04j],
+        [ 2.6792e-01-3.3785e-04j]])
+L1 norm of phases: 980.390380859375
+Average weighted phase: 0.004424192942678928
+
+Accuracy: 0.954
+Amplitudes for percept [0,0,0]: 
+tensor([[ 6.9954e-01-4.2407e-03j],
+        [-2.4568e-04+9.3526e-05j],
+        [ 1.1205e-01-2.3261e-04j],
+        [ 6.1859e-01-1.2841e-03j],
+        [ 2.3028e-01-2.0267e-04j],
+        [ 2.4978e-01-2.1983e-04j]])
+L1 norm of phases: 963.643310546875
+Average weighted phase: 0.0019137915223836899
+
+Accuracy: 0.946
+Amplitudes for percept [0,0,0]: 
+tensor([[ 6.9876e-01-2.9671e-04j],
+        [-2.2987e-04+9.0229e-05j],
+        [ 1.1096e-01-3.8057e-05j],
+        [ 6.2117e-01-2.1299e-04j],
+        [ 2.2882e-01-1.7895e-04j],
+        [ 2.4740e-01-1.9348e-04j]])
+L1 norm of phases: 994.0877075195312
+Average weighted phase: 0.0006383886211551726
+
+Accuracy: 0.97
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0031e-01-3.4595e-04j],
+        [-2.1200e-04+8.6960e-05j],
+        [ 1.0970e-01-1.1543e-05j],
+        [ 6.2137e-01-6.5323e-05j],
+        [ 2.2690e-01+8.5979e-05j],
+        [ 2.4486e-01+9.2780e-05j]])
+L1 norm of phases: 943.8060302734375
+Average weighted phase: 0.0003935550630558282
+
+Accuracy: 0.954
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0016e-01+4.8563e-05j],
+        [-1.9663e-04+8.3857e-05j],
+        [ 1.0864e-01+3.3827e-05j],
+        [ 6.2308e-01+1.9405e-04j],
+        [ 2.2512e-01+7.8570e-05j],
+        [ 2.4304e-01+8.4824e-05j]])
+L1 norm of phases: 913.0576782226562
+Average weighted phase: 0.00040774213266558945
+
+Accuracy: 0.944
+Amplitudes for percept [0,0,0]: 
+tensor([[ 6.9974e-01+5.5778e-05j],
+        [-1.8242e-04+8.0706e-05j],
+        [ 1.0757e-01-5.3529e-05j],
+        [ 6.2487e-01-3.1089e-04j],
+        [ 2.2371e-01+8.0661e-05j],
+        [ 2.4143e-01+8.7051e-05j]])
+L1 norm of phases: 918.4553833007812
+Average weighted phase: 0.00033057964174076915
+
+Accuracy: 0.972
+Amplitudes for percept [0,0,0]: 
+tensor([[ 6.9924e-01-2.4069e-05j],
+        [-1.7959e-04+8.2568e-05j],
+        [ 1.0652e-01+1.1027e-05j],
+        [ 6.2697e-01+6.4954e-05j],
+        [ 2.2203e-01+8.6150e-05j],
+        [ 2.3942e-01+9.2897e-05j]])
+L1 norm of phases: 931.2694702148438
+Average weighted phase: 0.0004883489455096424
+
+Accuracy: 0.956
+Amplitudes for percept [0,0,0]: 
+tensor([[ 6.9941e-01+3.0154e-05j],
+        [-1.6264e-04+7.7709e-05j],
+        [ 1.0549e-01-2.1262e-06j],
+        [ 6.2849e-01-1.2609e-05j],
+        [ 2.2006e-01-8.3130e-05j],
+        [ 2.3722e-01-8.9613e-05j]])
+L1 norm of phases: 854.091796875
+Average weighted phase: 0.00038573762867599726
+
+Accuracy: 0.962
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0153e-01-5.4094e-05j],
+        [-1.3873e-04+6.8874e-05j],
+        [ 1.0414e-01+5.2310e-05j],
+        [ 6.2790e-01+3.1546e-04j],
+        [ 2.1734e-01-3.2234e-05j],
+        [ 2.3562e-01-3.4947e-05j]])
+L1 norm of phases: 823.256591796875
+Average weighted phase: 0.0003361909475643188
+
+Accuracy: 0.96
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0118e-01+1.3057e-04j],
+        [-1.2453e-04+6.4143e-05j],
+        [ 1.0291e-01-1.4677e-05j],
+        [ 6.2983e-01-8.9769e-05j],
+        [ 2.1480e-01-1.8017e-05j],
+        [ 2.3439e-01-1.9661e-05j]])
+L1 norm of phases: 834.4036254882812
+Average weighted phase: 0.00039092061342671514
+
+Accuracy: 0.944
+Amplitudes for percept [0,0,0]: 
+tensor([[ 6.9901e-01-3.8905e-04j],
+        [-1.1290e-04+6.0204e-05j],
+        [ 1.0198e-01+3.4065e-06j],
+        [ 6.3360e-01+2.1221e-05j],
+        [ 2.1269e-01-5.0559e-05j],
+        [ 2.3304e-01-5.5399e-05j]])
+L1 norm of phases: 815.8094482421875
+Average weighted phase: 0.0005467750015668571
+
+Accuracy: 0.968
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0044e-01-3.4820e-04j],
+        [-1.0727e-04+5.9175e-05j],
+        [ 1.0090e-01+6.4492e-05j],
+        [ 6.3376e-01+4.0513e-04j],
+        [ 2.1003e-01+5.6048e-05j],
+        [ 2.3115e-01+6.1681e-05j]])
+L1 norm of phases: 839.23974609375
+Average weighted phase: 0.000491963466629386
+
+Accuracy: 0.96
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0051e-01-3.1919e-04j],
+        [-9.3021e-05+5.3155e-05j],
+        [ 9.9803e-02+3.8717e-05j],
+        [ 6.3539e-01+2.4654e-04j],
+        [ 2.0760e-01-3.9328e-05j],
+        [ 2.2913e-01-4.3408e-05j]])
+L1 norm of phases: 764.3214111328125
+Average weighted phase: 0.00047369449748657644
+
+Accuracy: 0.97
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0110e-01-6.6388e-05j],
+        [-6.7362e-05+3.9791e-05j],
+        [ 9.8593e-02-3.8544e-05j],
+        [ 6.3634e-01-2.4871e-04j],
+        [ 2.0541e-01+1.8460e-05j],
+        [ 2.2719e-01+2.0416e-05j]])
+L1 norm of phases: 789.510986328125
+Average weighted phase: 0.0005393103347159922
+
+Accuracy: 0.972
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0230e-01+8.7151e-05j],
+        [-4.5295e-05+2.7551e-05j],
+        [ 9.7311e-02+3.4796e-05j],
+        [ 6.3643e-01+2.2763e-04j],
+        [ 2.0394e-01+3.9809e-05j],
+        [ 2.2511e-01+4.3938e-05j]])
+L1 norm of phases: 813.890380859375
+Average weighted phase: 0.0003136796585749835
+
+Accuracy: 0.962
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0087e-01-9.9332e-05j],
+        [-4.8933e-05+3.0730e-05j],
+        [ 9.6178e-02-4.2445e-05j],
+        [ 6.3937e-01-2.8211e-04j],
+        [ 2.0216e-01-3.2093e-05j],
+        [ 2.2329e-01-3.5450e-05j]])
+L1 norm of phases: 765.1787719726562
+Average weighted phase: 0.00042944797314703465
+
+Accuracy: 0.956
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0032e-01+1.1796e-04j],
+        [-1.9847e-05+1.2899e-05j],
+        [ 9.4919e-02+5.8989e-05j],
+        [ 6.4165e-01+3.9882e-04j],
+        [ 1.9967e-01+2.5492e-05j],
+        [ 2.2127e-01+2.8248e-05j]])
+L1 norm of phases: 738.6134033203125
+Average weighted phase: 0.0003224061510991305
+
+Accuracy: 0.962
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0133e-01+3.0863e-04j],
+        [-7.2163e-05+4.8641e-05j],
+        [ 9.3461e-02+4.2651e-06j],
+        [ 6.4238e-01+2.9371e-05j],
+        [ 1.9701e-01-1.0344e-04j],
+        [ 2.1897e-01-1.1497e-04j]])
+L1 norm of phases: 739.9078979492188
+Average weighted phase: 0.0003065551572944969
+
+Accuracy: 0.976
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0177e-01-1.9446e-04j],
+        [-7.2561e-05+5.0593e-05j],
+        [ 9.2188e-02+1.3584e-05j],
+        [ 6.4357e-01+9.4884e-05j],
+        [ 1.9452e-01-1.3540e-04j],
+        [ 2.1679e-01-1.5091e-04j]])
+L1 norm of phases: 724.533203125
+Average weighted phase: 0.0004965968546457589
+
+Accuracy: 0.976
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0053e-01-5.4322e-04j],
+        [-7.1937e-05+5.1718e-05j],
+        [ 9.1191e-02+3.5355e-05j],
+        [ 6.4641e-01+2.5067e-04j],
+        [ 1.9222e-01-6.0340e-05j],
+        [ 2.1481e-01-6.7433e-05j]])
+L1 norm of phases: 742.6162719726562
+Average weighted phase: 0.0004093468014616519
+
+Accuracy: 0.972
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0117e-01-9.9458e-04j],
+        [-5.8936e-05+4.3741e-05j],
+        [ 9.0101e-02-3.3450e-05j],
+        [ 6.4734e-01-2.4027e-04j],
+        [ 1.8961e-01+3.8925e-05j],
+        [ 2.1269e-01+4.3662e-05j]])
+L1 norm of phases: 722.8161010742188
+Average weighted phase: 0.000475604843813926
+
+Accuracy: 0.966
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0221e-01-3.1090e-04j],
+        [-5.5216e-05+4.2242e-05j],
+        [ 8.8904e-02-2.3474e-05j],
+        [ 6.4783e-01-1.7100e-04j],
+        [ 1.8736e-01+1.4388e-04j],
+        [ 2.1025e-01+1.6145e-04j]])
+L1 norm of phases: 723.1934814453125
+Average weighted phase: 0.00038981970283202827
+
+Accuracy: 0.974
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0218e-01+4.4781e-04j],
+        [-5.5056e-05+4.3474e-05j],
+        [ 8.7608e-02+1.6105e-05j],
+        [ 6.4943e-01+1.1944e-04j],
+        [ 1.8521e-01+5.9841e-05j],
+        [ 2.0783e-01+6.7146e-05j]])
+L1 norm of phases: 723.5834350585938
+Average weighted phase: 0.0006400489364750683
+
+Accuracy: 0.96
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0179e-01-2.7848e-04j],
+        [-6.3219e-05+5.1628e-05j],
+        [ 8.6366e-02-1.9937e-05j],
+        [ 6.5140e-01-1.5032e-04j],
+        [ 1.8246e-01-6.3507e-05j],
+        [ 2.0595e-01-7.1683e-05j]])
+L1 norm of phases: 696.4385375976562
+Average weighted phase: 0.00045918935211375356
+
+Accuracy: 0.96
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0188e-01+3.8595e-04j],
+        [-7.5409e-05+6.3443e-05j],
+        [ 8.5214e-02+4.4599e-05j],
+        [ 6.5288e-01+3.4176e-04j],
+        [ 1.7991e-01+1.1085e-04j],
+        [ 2.0367e-01+1.2549e-04j]])
+L1 norm of phases: 698.1473999023438
+Average weighted phase: 0.0006372204516083002
+
+Accuracy: 0.962
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0339e-01-1.0176e-03j],
+        [-8.2198e-05+7.1562e-05j],
+        [ 8.3887e-02-2.5272e-05j],
+        [ 6.5288e-01-1.9664e-04j],
+        [ 1.7739e-01-1.2131e-05j],
+        [ 2.0119e-01-1.3760e-05j]])
+L1 norm of phases: 709.341552734375
+Average weighted phase: 0.0006286177667789161
+
+Accuracy: 0.968
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0296e-01-3.5456e-04j],
+        [-9.2617e-05+8.3055e-05j],
+        [ 8.2647e-02+7.4405e-06j],
+        [ 6.5482e-01+5.9004e-05j],
+        [ 1.7498e-01+4.6483e-05j],
+        [ 1.9902e-01+5.2868e-05j]])
+L1 norm of phases: 717.2609252929688
+Average weighted phase: 0.000551884004380554
+
+Accuracy: 0.976
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0162e-01-5.8171e-04j],
+        [-1.1304e-04+1.0446e-04j],
+        [ 8.1565e-02+4.8937e-06j],
+        [ 6.5769e-01+3.9513e-05j],
+        [ 1.7318e-01+2.8644e-05j],
+        [ 1.9629e-01+3.2465e-05j]])
+L1 norm of phases: 750.8271484375
+Average weighted phase: 0.00047861484927125275
+
+Accuracy: 0.968
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0403e-01+1.5287e-04j],
+        [-9.8504e-05+9.3699e-05j],
+        [ 8.0261e-02+4.2519e-05j],
+        [ 6.5664e-01+3.4791e-04j],
+        [ 1.7157e-01+2.3026e-05j],
+        [ 1.9310e-01+2.5914e-05j]])
+L1 norm of phases: 700.149169921875
+Average weighted phase: 0.0003127727541141212
+
+Accuracy: 0.968
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0453e-01-2.0691e-04j],
+        [-8.4369e-05+8.3084e-05j],
+        [ 7.8731e-02-3.3897e-05j],
+        [ 6.5759e-01-2.8307e-04j],
+        [ 1.6995e-01-1.4806e-04j],
+        [ 1.9009e-01-1.6562e-04j]])
+L1 norm of phases: 680.2001953125
+Average weighted phase: 0.000554983620531857
+
+Accuracy: 0.956
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0158e-01-1.6299e-03j],
+        [-6.2178e-05+6.3476e-05j],
+        [ 7.7337e-02+8.9265e-05j],
+        [ 6.6214e-01+7.6431e-04j],
+        [ 1.6819e-01-1.7376e-05j],
+        [ 1.8733e-01-1.9355e-05j]])
+L1 norm of phases: 728.9815063476562
+Average weighted phase: 0.0007968074642121792
+
+Accuracy: 0.982
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0133e-01+7.8565e-04j],
+        [-8.0247e-05+8.4414e-05j],
+        [ 7.6159e-02+5.1227e-05j],
+        [ 6.6403e-01+4.4669e-04j],
+        [ 1.6582e-01+6.4740e-05j],
+        [ 1.8414e-01+7.1889e-05j]])
+L1 norm of phases: 723.06103515625
+Average weighted phase: 0.0004628691531252116
+
+Accuracy: 0.984
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0399e-01-6.8002e-04j],
+        [-8.5393e-05+9.3160e-05j],
+        [ 7.4863e-02-3.1340e-05j],
+        [ 6.6287e-01-2.7745e-04j],
+        [ 1.6323e-01-7.6901e-05j],
+        [ 1.8096e-01-8.5257e-05j]])
+L1 norm of phases: 699.2144165039062
+Average weighted phase: 0.0004487799888011068
+
+Accuracy: 0.956
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0414e-01-2.9454e-04j],
+        [-8.7291e-05+9.8228e-05j],
+        [ 7.3565e-02+1.7267e-05j],
+        [ 6.6406e-01+1.5592e-04j],
+        [ 1.6108e-01-1.2340e-04j],
+        [ 1.7848e-01-1.3673e-04j]])
+L1 norm of phases: 679.09521484375
+Average weighted phase: 0.0004607689625117928
+
+Accuracy: 0.974
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0382e-01-1.1351e-03j],
+        [-6.2802e-05+7.2923e-05j],
+        [ 7.2340e-02+1.2202e-05j],
+        [ 6.6564e-01+1.1233e-04j],
+        [ 1.5911e-01-3.2500e-05j],
+        [ 1.7610e-01-3.5972e-05j]])
+L1 norm of phases: 754.8575439453125
+Average weighted phase: 0.0004702826263383031
+
+Accuracy: 0.97
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0366e-01-3.0159e-04j],
+        [-6.8618e-05+8.2060e-05j],
+        [ 7.1133e-02-3.0771e-07j],
+        [ 6.6709e-01-2.8327e-06j],
+        [ 1.5708e-01-1.7809e-05j],
+        [ 1.7354e-01-1.9676e-05j]])
+L1 norm of phases: 714.2215576171875
+Average weighted phase: 0.0006177022005431354
+
+Accuracy: 0.968
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0269e-01-2.0667e-04j],
+        [-5.4458e-05+6.7438e-05j],
+        [ 6.9872e-02-3.2278e-05j],
+        [ 6.6955e-01-3.0926e-04j],
+        [ 1.5472e-01-9.4560e-06j],
+        [ 1.7059e-01-1.0427e-05j]])
+L1 norm of phases: 660.405517578125
+Average weighted phase: 0.0003139797190669924
+
+Accuracy: 0.974
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0414e-01-6.1311e-04j],
+        [-4.7034e-05+6.0441e-05j],
+        [ 6.8456e-02-2.9642e-05j],
+        [ 6.6955e-01-2.8987e-04j],
+        [ 1.5191e-01+5.9005e-05j],
+        [ 1.6771e-01+6.5141e-05j]])
+L1 norm of phases: 644.445556640625
+Average weighted phase: 0.0004499872447922826
+
+Accuracy: 0.976
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0464e-01-1.5000e-03j],
+        [-4.3679e-05+5.8013e-05j],
+        [ 6.7226e-02-1.9335e-05j],
+        [ 6.7026e-01-1.9273e-04j],
+        [ 1.4946e-01-4.9014e-05j],
+        [ 1.6545e-01-5.4259e-05j]])
+L1 norm of phases: 660.51904296875
+Average weighted phase: 0.00045263185165822506
+
+Accuracy: 0.982
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0380e-01-6.9866e-04j],
+        [-3.9043e-05+5.3342e-05j],
+        [ 6.6110e-02-1.4716e-05j],
+        [ 6.7221e-01-1.4958e-04j],
+        [ 1.4740e-01+1.8071e-05j],
+        [ 1.6340e-01+2.0031e-05j]])
+L1 norm of phases: 698.1470336914062
+Average weighted phase: 0.0005163496825844049
+
+Accuracy: 0.982
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0545e-01-3.4734e-04j],
+        [-6.0612e-05+8.5526e-05j],
+        [ 6.4749e-02+2.8118e-05j],
+        [ 6.7166e-01+2.9172e-04j],
+        [ 1.4527e-01-5.3021e-06j],
+        [ 1.6099e-01-5.8772e-06j]])
+L1 norm of phases: 580.6502685546875
+Average weighted phase: 0.00033470152993686497
+
+Accuracy: 0.986
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0479e-01-5.5403e-04j],
+        [-5.0855e-05+7.4221e-05j],
+        [ 6.3408e-02-2.0283e-05j],
+        [ 6.7340e-01-2.1536e-04j],
+        [ 1.4334e-01+1.8896e-05j],
+        [ 1.5888e-01+2.0943e-05j]])
+L1 norm of phases: 634.21240234375
+Average weighted phase: 0.0004174954374320805
+
+Accuracy: 0.97
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0581e-01-9.5054e-04j],
+        [-3.8649e-05+5.8356e-05j],
+        [ 6.1972e-02-1.1728e-06j],
+        [ 6.7334e-01-1.2690e-05j],
+        [ 1.4148e-01+7.8702e-05j],
+        [ 1.5679e-01+8.7214e-05j]])
+L1 norm of phases: 630.1052856445312
+Average weighted phase: 0.00047961209202185273
+
+Accuracy: 0.982
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0486e-01-4.2742e-04j],
+        [-2.6237e-06+4.0934e-06j],
+        [ 6.0604e-02-1.3575e-05j],
+        [ 6.7529e-01-1.5122e-04j],
+        [ 1.3962e-01-4.4637e-05j],
+        [ 1.5487e-01-4.9514e-05j]])
+L1 norm of phases: 550.861572265625
+Average weighted phase: 0.0005688832607120275
+
+Accuracy: 0.988
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0391e-01+1.2081e-03j],
+        [9.0313e-05-1.4193e-04j],
+        [5.9377e-02-1.1140e-05j],
+        [6.7726e-01-1.2702e-04j],
+        [1.3753e-01-2.1352e-05j],
+        [1.5296e-01-2.3749e-05j]])
+L1 norm of phases: 558.0092163085938
+Average weighted phase: 0.000602186075411737
+
+Accuracy: 0.99
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0512e-01+2.5871e-04j],
+        [1.1955e-04-1.8484e-04j],
+        [5.8175e-02+3.7575e-05j],
+        [6.7699e-01+4.3732e-04j],
+        [1.3542e-01+5.8238e-05j],
+        [1.5088e-01+6.4885e-05j]])
+L1 norm of phases: 518.9366455078125
+Average weighted phase: 0.000864126137457788
+
+Accuracy: 0.972
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0518e-01+6.2883e-04j],
+        [1.2317e-04-1.8518e-04j],
+        [5.6965e-02+1.0266e-05j],
+        [6.7787e-01+1.2221e-04j],
+        [1.3344e-01+1.3590e-05j],
+        [1.4887e-01+1.5160e-05j]])
+L1 norm of phases: 562.6034545898438
+Average weighted phase: 0.000377221847884357
+
+Accuracy: 0.978
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0457e-01+4.0235e-04j],
+        [1.1268e-04-1.6384e-04j],
+        [5.5728e-02+4.6126e-06j],
+        [6.7958e-01+5.6288e-05j],
+        [1.3131e-01+3.3083e-05j],
+        [1.4631e-01+3.6863e-05j]])
+L1 norm of phases: 523.404541015625
+Average weighted phase: 0.0004498603520914912
+
+Accuracy: 0.992
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0496e-01+9.1418e-04j],
+        [9.3127e-05-1.3085e-04j],
+        [5.4582e-02-3.9478e-06j],
+        [6.8024e-01-4.9158e-05j],
+        [1.2914e-01+9.1465e-05j],
+        [1.4367e-01+1.0175e-04j]])
+L1 norm of phases: 506.19921875
+Average weighted phase: 0.000676958414260298
+
+Accuracy: 0.994
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0681e-01+4.7558e-04j],
+        [7.2689e-05-9.8957e-05j],
+        [5.3305e-02-1.7201e-05j],
+        [6.7929e-01-2.1915e-04j],
+        [1.2709e-01+8.0070e-05j],
+        [1.4140e-01+8.9081e-05j]])
+L1 norm of phases: 539.7564697265625
+Average weighted phase: 0.0005160824512131512
+
+Accuracy: 0.984
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0741e-01+4.4528e-04j],
+        [4.7358e-05-6.2423e-05j],
+        [5.1898e-02+6.9244e-06j],
+        [6.7947e-01+9.0705e-05j],
+        [1.2534e-01+7.4813e-05j],
+        [1.3960e-01+8.3321e-05j]])
+L1 norm of phases: 500.6717224121094
+Average weighted phase: 0.0003691668971441686
+
+Accuracy: 0.994
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0240e-01+7.3344e-05j],
+        [3.8602e-05-4.9273e-05j],
+        [5.0710e-02-2.1154e-05j],
+        [6.8543e-01-2.8589e-04j],
+        [1.2361e-01+5.0731e-06j],
+        [1.3768e-01+5.6488e-06j]])
+L1 norm of phases: 488.0351257324219
+Average weighted phase: 0.00044364226050674915
+
+Accuracy: 0.972
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0545e-01+6.2565e-04j],
+        [5.2521e-05-6.4672e-05j],
+        [4.9542e-02+2.4856e-05j],
+        [6.8338e-01+3.4290e-04j],
+        [1.2113e-01-6.6555e-05j],
+        [1.3496e-01-7.4156e-05j]])
+L1 norm of phases: 538.7369384765625
+Average weighted phase: 0.0006884091999381781
+
+Accuracy: 0.996
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0649e-01+3.9549e-06j],
+        [8.0486e-05-9.5776e-05j],
+        [4.8302e-02-5.8922e-05j],
+        [6.8331e-01-8.3350e-04j],
+        [1.1880e-01-6.8220e-05j],
+        [1.3235e-01-7.5998e-05j]])
+L1 norm of phases: 461.4775390625
+Average weighted phase: 0.0005419163499027491
+
+Accuracy: 0.992
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0550e-01+3.8054e-04j],
+        [1.1238e-04-1.2892e-04j],
+        [4.6955e-02-3.2040e-05j],
+        [6.8522e-01-4.6752e-04j],
+        [1.1675e-01+6.8542e-05j],
+        [1.3001e-01+7.6324e-05j]])
+L1 norm of phases: 488.43353271484375
+Average weighted phase: 0.0005036395159550011
+
+Accuracy: 0.986
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0660e-01+6.8021e-04j],
+        [1.0716e-04-1.1885e-04j],
+        [4.5659e-02+3.0875e-05j],
+        [6.8490e-01+4.6318e-04j],
+        [1.1486e-01+3.0748e-05j],
+        [1.2788e-01+3.4234e-05j]])
+L1 norm of phases: 473.8801574707031
+Average weighted phase: 0.0004109682631678879
+
+Accuracy: 0.99
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0446e-01+4.1765e-04j],
+        [7.3668e-05-7.9106e-05j],
+        [4.4450e-02+1.4057e-05j],
+        [6.8786e-01+2.1757e-04j],
+        [1.1298e-01+2.3544e-05j],
+        [1.2585e-01+2.6226e-05j]])
+L1 norm of phases: 458.7279968261719
+Average weighted phase: 0.00048334163147956133
+
+Accuracy: 0.99
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0724e-01+1.3460e-04j],
+        [5.1822e-05-5.3849e-05j],
+        [4.3228e-02-2.4164e-05j],
+        [6.8587e-01-3.8335e-04j],
+        [1.1079e-01-1.3188e-05j],
+        [1.2348e-01-1.4699e-05j]])
+L1 norm of phases: 593.8583374023438
+Average weighted phase: 0.00041861142381094396
+
+Accuracy: 0.996
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0545e-01-2.0598e-04j],
+        [-7.7240e-05+7.7665e-05j],
+        [ 4.1997e-02-5.4084e-06j],
+        [ 6.8853e-01-8.8624e-05j],
+        [ 1.0869e-01+2.5473e-05j],
+        [ 1.2122e-01+2.8408e-05j]])
+L1 norm of phases: 616.6026611328125
+Average weighted phase: 0.0006042735185474157
+
+Accuracy: 0.994
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0707e-01-5.2541e-04j],
+        [-2.4531e-04+2.4661e-04j],
+        [ 4.0783e-02-5.8567e-06j],
+        [ 6.8763e-01-9.8699e-05j],
+        [ 1.0668e-01-5.2957e-05j],
+        [ 1.1905e-01-5.9096e-05j]])
+L1 norm of phases: 571.0037231445312
+Average weighted phase: 0.0005281723570078611
+
+Accuracy: 0.984
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0687e-01-8.8470e-04j],
+        [-2.7152e-04+2.7818e-04j],
+        [ 3.9671e-02-4.4308e-06j],
+        [ 6.8846e-01-7.6855e-05j],
+        [ 1.0506e-01-3.5018e-05j],
+        [ 1.1725e-01-3.9085e-05j]])
+L1 norm of phases: 810.7142944335938
+Average weighted phase: 0.0004398549208417535
+
+Accuracy: 0.986
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0464e-01+9.0877e-05j],
+        [-2.4738e-04+2.5978e-04j],
+        [ 3.8664e-02+7.7510e-06j],
+        [ 6.9138e-01+1.3865e-04j],
+        [ 1.0338e-01+5.9855e-05j],
+        [ 1.1534e-01+6.6775e-05j]])
+L1 norm of phases: 761.5399780273438
+Average weighted phase: 0.00034330892958678305
+
+Accuracy: 0.988
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0717e-01-2.7635e-04j],
+        [-2.0112e-04+2.1771e-04j],
+        [ 3.7671e-02-6.8796e-06j],
+        [ 6.8949e-01-1.2587e-04j],
+        [ 1.0149e-01-3.4094e-06j],
+        [ 1.1313e-01-3.8017e-06j]])
+L1 norm of phases: 711.44482421875
+Average weighted phase: 0.000642197672277689
+
+Accuracy: 0.982
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0736e-01-5.2825e-04j],
+        [-1.5390e-04+1.7201e-04j],
+        [ 3.6601e-02+4.7826e-06j],
+        [ 6.8994e-01+9.0197e-05j],
+        [ 9.9812e-02-2.9913e-06j],
+        [ 1.1104e-01-3.3293e-06j]])
+L1 norm of phases: 741.2388916015625
+Average weighted phase: 0.0004373730334918946
+
+Accuracy: 0.988
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0650e-01-1.0558e-03j],
+        [-1.0974e-04+1.2695e-04j],
+        [ 3.5492e-02-1.5772e-05j],
+        [ 6.9144e-01-3.0722e-04j],
+        [ 9.8053e-02-3.5148e-05j],
+        [ 1.0906e-01-3.9096e-05j]])
+L1 norm of phases: 699.016357421875
+Average weighted phase: 0.0005081184790469706
+
+Accuracy: 0.978
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0657e-01+1.5751e-04j],
+        [-9.2036e-05+1.0995e-04j],
+        [ 3.4397e-02+1.4850e-05j],
+        [ 6.9200e-01+2.9880e-04j],
+        [ 9.6107e-02-7.3735e-06j],
+        [ 1.0707e-01-8.2163e-06j]])
+L1 norm of phases: 880.0427856445312
+Average weighted phase: 0.0004695721436291933
+
+Accuracy: 0.992
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0673e-01-7.8432e-05j],
+        [-4.4681e-05+5.5344e-05j],
+        [ 3.3296e-02-1.4199e-06j],
+        [ 6.9248e-01-2.9493e-05j],
+        [ 9.4133e-02+2.9608e-05j],
+        [ 1.0502e-01+3.3032e-05j]])
+L1 norm of phases: 838.19287109375
+Average weighted phase: 0.0006761656841263175
+
+Accuracy: 0.988
+Amplitudes for percept [0,0,0]: 
+tensor([[ 7.0559e-01-7.3588e-04j],
+        [-1.9289e-05+2.4801e-05j],
+        [ 3.2238e-02+9.3395e-06j],
+        [ 6.9427e-01+2.0118e-04j],
+        [ 9.2199e-02-2.2351e-05j],
+        [ 1.0294e-01-2.4958e-05j]])
+L1 norm of phases: 795.8825073242188
+Average weighted phase: 0.00038842190406285226
+
+Accuracy: 0.994
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0938e-01+1.2351e-04j],
+        [8.2029e-05-1.0858e-04j],
+        [3.1168e-02+1.6852e-05j],
+        [6.9100e-01+3.7367e-04j],
+        [9.0309e-02-2.4720e-05j],
+        [1.0086e-01-2.7610e-05j]])
+L1 norm of phases: 830.8018188476562
+Average weighted phase: 0.0003850360226351768
+
+Accuracy: 0.992
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0533e-01+1.0858e-03j],
+        [2.9423e-04-3.8713e-04j],
+        [3.0119e-02-4.4293e-06j],
+        [6.9563e-01-1.0225e-04j],
+        [8.8786e-02+2.8764e-05j],
+        [9.9131e-02+3.2113e-05j]])
+L1 norm of phases: 851.3721923828125
+Average weighted phase: 0.000552587560378015
+
+Accuracy: 0.992
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0676e-01+2.3266e-04j],
+        [3.3680e-04-4.3532e-04j],
+        [2.9252e-02-1.2372e-05j],
+        [6.9463e-01-2.9376e-04j],
+        [8.7304e-02+3.6789e-05j],
+        [9.7445e-02+4.1061e-05j]])
+L1 norm of phases: 793.5699462890625
+Average weighted phase: 0.00041570598841644824
+
+Accuracy: 0.992
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0537e-01+3.2108e-05j],
+        [3.1388e-04-3.9549e-04j],
+        [2.8491e-02-4.7738e-06j],
+        [6.9651e-01-1.1666e-04j],
+        [8.5819e-02-3.2988e-05j],
+        [9.5707e-02-3.6790e-05j]])
+L1 norm of phases: 730.0120849609375
+Average weighted phase: 0.000522561080288142
+
+Accuracy: 0.994
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0545e-01+1.0721e-04j],
+        [2.8279e-04-3.4644e-04j],
+        [2.7806e-02+7.1643e-07j],
+        [6.9691e-01+1.7997e-05j],
+        [8.4209e-02+2.0812e-06j],
+        [9.3811e-02+2.3168e-06j]])
+L1 norm of phases: 770.910400390625
+Average weighted phase: 0.0005809987778775394
+
+Accuracy: 0.998
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0900e-01+9.9571e-04j],
+        [2.3909e-04-2.8405e-04j],
+        [2.7050e-02-2.4933e-07j],
+        [6.9377e-01-6.3536e-06j],
+        [8.2605e-02+1.2680e-05j],
+        [9.1940e-02+1.4112e-05j]])
+L1 norm of phases: 789.1615600585938
+Average weighted phase: 0.00045252477866597474
+
+Accuracy: 0.996
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0793e-01+9.1453e-05j],
+        [1.8747e-04-2.1596e-04j],
+        [2.6107e-02-8.6681e-06j],
+        [6.9526e-01-2.3080e-04j],
+        [8.1253e-02+6.5465e-05j],
+        [9.0389e-02+7.2824e-05j]])
+L1 norm of phases: 766.7719116210938
+Average weighted phase: 0.0006811856874264777
+
+Accuracy: 0.998
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0762e-01+2.6151e-04j],
+        [1.4505e-04-1.6191e-04j],
+        [2.5171e-02-2.1013e-05j],
+        [6.9594e-01-5.8094e-04j],
+        [7.9966e-02-1.6736e-05j],
+        [8.8940e-02-1.8616e-05j]])
+L1 norm of phases: 759.682373046875
+Average weighted phase: 0.0008157389238476753
+
+Accuracy: 0.994
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0706e-01-3.8028e-04j],
+        [1.0620e-04-1.1524e-04j],
+        [2.4356e-02-4.6737e-06j],
+        [6.9685e-01-1.3367e-04j],
+        [7.8733e-02-7.7046e-05j],
+        [8.7564e-02-8.5689e-05j]])
+L1 norm of phases: 755.044921875
+Average weighted phase: 0.0005504714208655059
+
+Accuracy: 0.994
+Amplitudes for percept [0,0,0]: 
+tensor([[7.0717e-01+3.0728e-04j],
+        [7.6674e-05-8.0715e-05j],
+        [2.3600e-02+9.1362e-06j],
+        [6.9710e-01+2.6992e-04j],
+        [7.7405e-02-5.0430e-05j],
+        [8.6112e-02-5.6104e-05j]])
+L1 norm of phases: 739.4819946289062
+Average weighted phase: 0.0006579161854460835
+

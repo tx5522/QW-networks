@@ -1,0 +1,7 @@
+Output phase parameters (shape torch.Size([6])):
+0.8532
+0.8480
+0.7854
+0.7854
+0.7854
+0.7854
